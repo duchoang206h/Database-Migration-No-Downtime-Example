@@ -1,0 +1,18 @@
+{
+  "name": "database-migration-no-downtime-example",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "insert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "esm": "^3.2.25",
+    "mysql2": "^3.10.0"
+  }
+}
